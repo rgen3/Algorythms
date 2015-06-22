@@ -1,4 +1,4 @@
-__author__ = 'Александр'
+__author__ = 'Александр '
 
 from random import randint
 
