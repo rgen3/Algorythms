@@ -1,4 +1,5 @@
 __author__ = 'Александр'
+__branch__ = 'master'
 
 from random import randint
 
